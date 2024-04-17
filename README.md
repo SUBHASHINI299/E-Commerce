@@ -35,3 +35,5 @@ The project utilizes sales data from CSV files, which should be located in the d
 **NM ID: aut513321105701**
 
 **College Name: University College Of Engineering - Arni**
+
+**Video link: https://www.youtube.com/watch?v=lhjn4qI28eg**
