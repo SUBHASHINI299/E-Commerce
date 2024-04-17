@@ -9,7 +9,6 @@ Welcome to the **Sales Analysis** project! This project aims to provide data-dri
 - Problem Statement
 - Project Description
 - Data Sources
-- Acknowledgements
 
 ## Problem Statement
 
@@ -29,12 +28,7 @@ The analysis is intended to guide strategic decisions for optimizing sales and i
 
 ## Data Sources
 
-The project utilizes sales data from CSV files, which should be located in the `/content/sample_data/dataset` folder.
-
-## Acknowledgements
-
-Thank you for your interest in this project! If you have any questions or feedback, feel free to reach out to the project maintainers.
-
+The project utilizes sales data from CSV files, which should be located in the dataset folder.
 
 **Name: Subhashini E G**
 
